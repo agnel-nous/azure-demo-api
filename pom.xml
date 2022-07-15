@@ -36,7 +36,7 @@
 						<password>${password}</password>
 						<uri>https://anypoint.mulesoft.com</uri>
 						<muleVersion>${muleVersion}</muleVersion>
-						<applicationName>azure-demo-api</applicationName>
+						<applicationName>azure-demo-api1</applicationName>
 						<workers>${workers}</workers>
 						<workerType>${workerType}</workerType>
 						<environment>Sandbox</environment>
