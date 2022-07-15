@@ -1,0 +1,23 @@
+#%RAML 1.0
+title: azure-demo-api
+
+
+/getdetails:
+  get:
+    description: Retrieve details
+    responses:
+      200:
+        body:
+          application/json:
+            example:
+              {
+                "Retrieved details"
+              }
+
+      400:
+        body:
+          application/json:
+            example:
+              {
+                "Internal server error"
+              }
