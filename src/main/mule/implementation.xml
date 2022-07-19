@@ -14,7 +14,7 @@ http://www.mulesoft.org/schema/mule/ee/core http://www.mulesoft.org/schema/mule/
 output application/json
 ---
 {
-	"messsage": "On-boarded to Azure"
+	"messsage": "API to showcase Azure Demonstration"
 }]]></ee:set-payload>
 			</ee:message>
 		</ee:transform>
